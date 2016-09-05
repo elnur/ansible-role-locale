@@ -1,0 +1,2 @@
+- name: Fix locale
+  command: update-locale LC_ALL=en_US.UTF-8
