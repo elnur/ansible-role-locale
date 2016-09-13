@@ -2,3 +2,5 @@ galaxy_info:
   author: Elnur Abdurrakhimov
   description: Fix locale
   license: MIT
+  galaxy_tags:
+    - locale
