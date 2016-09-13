@@ -4,4 +4,6 @@ galaxy_info:
   license: MIT
   galaxy_tags:
     - locale
+  platforms:
+    - name: Ubuntu
 dependencies: []
